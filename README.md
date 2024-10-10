@@ -43,4 +43,4 @@ Atleast i should find a better dataset.
 
 
 #### Questions
-If you had any questions, please contact me via email (Shahbod)[Shahbods26@gmail.com]
+If you had any questions, please contact me via email [Shahbod](Shahbods26@gmail.com)
