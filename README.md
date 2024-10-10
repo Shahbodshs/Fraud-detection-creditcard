@@ -33,3 +33,14 @@ Additionally, understanding the nature of outliers and distribution of your data
 - AUC Score: 0.96
 - Precision: High Precision, focusing on minimizing false positives.
 - Recall: High Recall, ensuring the detection of most fraudulent transactions.
+
+
+```
+
+### Updates
+If i implemented a model better than this i will let you know in this part, but i doubt that i will work with this model more, its already perfoming well. 
+Atleast i should find a better dataset. 
+
+
+#### Questions
+If you had any questions, please contact me via email (Shahbod)[Shahbods26@gmail.com]
